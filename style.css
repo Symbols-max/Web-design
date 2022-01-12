@@ -8,7 +8,7 @@ body{
     font-size: x-large;
 }
 
-h1,h2,h3,h4,h5,h6{
+h1,h2,h3,h4,h5,h6,p{
     padding: 0;
     margin: 0;
 }
@@ -89,7 +89,47 @@ padding-right: 100px;
 
 main{
     margin: 0px;
-    padding: 30px;
+    padding: 0px;
     background: #F9F9F9;
     color: #07192A;
 }
+
+.mainTitleBlock{
+    text-align: center;
+    padding-left: 20%;
+    width: 60%;
+}
+
+.mainTitleText1{
+    padding-top: 70px;
+    color: #F96B83;
+}
+
+.mainTitleText2{
+margin-top: 20px;
+}
+
+.mainTitleText3{
+    margin-top: 35px;
+    color: #777777;
+    margin-bottom: 20px;
+}
+
+.mainMainBlock{
+    margin-top: 65px;
+    width: 80%;
+    margin-left: 16%;
+}
+
+.mainContent{
+ padding: 20px;
+    margin: 20px;
+    display: inline-block;
+ width: 20%;
+    background: #FFFFFF;
+
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+
