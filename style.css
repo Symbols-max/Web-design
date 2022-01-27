@@ -29,7 +29,9 @@ header{
 }
 
 .headerNav{
-    margin: 18px;
+    margin: 20px;
+    margin-right: 1%;
+	margin-left: 1%;
     display: inline-block;
     font-size: large;
     text-align: center;
